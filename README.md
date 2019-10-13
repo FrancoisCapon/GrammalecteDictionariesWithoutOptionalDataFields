@@ -1,2 +1,2 @@
-# :fr: :book: Grammalecte Dictionaries Without Optional Data Fields
+# :fr: :book: French Dictionaries Without Optional Data Fields
  
