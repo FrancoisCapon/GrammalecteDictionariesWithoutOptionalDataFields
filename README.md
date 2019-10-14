@@ -151,4 +151,3 @@ cd ..
 Le dictionnaire français est l'un des rares à utiliser cette possibilité. Il y a aussi le dictionnaire hongrois et peut-être quelques autres (le russe ? le portugais ? je ne suis pas très sûr...)
 * [ :male_detective: Typo.js: A client-side JavaScript spellchecker that uses Hunspell-style dictionaries](https://github.com/cfinke/Typo.js/)
 * [ :male_detective: Hunspell > Manual pages](https://github.com/hunspell/hunspell/releases)
-
