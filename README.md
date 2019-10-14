@@ -1,5 +1,4 @@
-# Dictionnaires Grammalecte sans champs optionnels
-
+#  :fr: :book: Dictionnaires Grammalecte sans champs optionnels
 ## Pourquoi ces dictionnaires ?
 Au tout départ, je recherchais un dictionnaire français utilisable avec l'extension Alice - Spell Checking pour Brackets. 
 
