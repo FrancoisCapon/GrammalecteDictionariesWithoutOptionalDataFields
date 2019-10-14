@@ -85,7 +85,7 @@ Zosime po:prn is:mas is:inv
 #### Inconvénients
 
 L'utilisation de ces champs optionnels présentent les inconvénients suivants :
-1. Au mieux, les correcteurs purement orthographiques n'utilisent pas ces informations, elles sont donc inutiles.
+1. Au mieux, les correcteurs purement orthographiques n'utilisent pas ces informations, elles ne sont donc pas nécessaires.
 1. Au pire, les correcteurs ne lisent pas correctement les fichiers contenant ces champs optionnels.
 
 ## Les dictionnaires allégés (sans champs optionnels)
