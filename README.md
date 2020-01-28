@@ -7,6 +7,8 @@ Celui du projet Grammalecte.dic(fr) est très complet, mais le correcteur (ou la
 * mais pas de règles d'affixe
 * exemple le mot `vroum po:interj`
 
+Ces [dictionnaires français adaptés à l'extension Alice - Spell Checking pour Brackets](https://github.com/FrancoisCapon/FrenchDictionariesForExtensionAliceSpellCheckingOfAdobeBrackets) sont disponibles dans cet autre [dépôt :octocat:](https://github.com/FrancoisCapon/FrenchDictionariesForExtensionAliceSpellCheckingOfAdobeBrackets).
+
 ## Les dictionnaires Hunspell
 Les dictionnaires Grammelecte sont des dictionnaires Hunspell, chaque dictionnaire Hunspell est constitué de deux fichiers :
 1. un fichier `mondictionnaire.dic` contenant une liste de mots avec ou non des règles d'affixe
